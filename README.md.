@@ -1,0 +1,23 @@
+Proyecto Final - Corte 2: Reingeniería de Software (30%)
+Estudiante: Daniel Camilo Lopez Piraquive
+Profesor: Diego Zuluaga
+Institución: Universidad de La Sabana
+
+Descripción del Proyecto
+Este sistema representa una reingeniería completa del MVP inicial de la Cafetería U. Sabana, migrando de una lógica simple a una arquitectura profesional.
+
+Tecnologías Utilizadas:
+POO: Implementación de herencia, encapsulamiento y polimorfismo.
+
+Persistencia: Base de datos SQLite normalizada.
+
+Robustez: Manejo de excepciones y validaciones de datos.
+
+Estructura del Repositorio
+app_escalada_grupo_3.ipynb: Archivo principal con el código fuente y documentación técnica.
+
+/design: Carpeta que contiene los diagramas de soporte del proyecto:
+
+Modelo_ERD.pdf: Diagrama de la base de datos (Entidad-Relación).
+
+Diagrama_Clases.pdf: Diagrama de la jerarquía de clases (Herencia). 
